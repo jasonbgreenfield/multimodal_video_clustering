@@ -1,0 +1,15 @@
+easyocr==1.7.1
+librosa==0.10.1
+multiprocess==0.70.16
+numpy==1.25.2
+openai-clip==1.0.1
+opencv-python==4.9.0.80
+pillow==10.3.0
+pytorch-ignite==0.3.0
+scenedetect==0.6.2
+sklearn==0.0
+termcolor==2.4.0
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.39.3
+visdom==0.1.8.9
